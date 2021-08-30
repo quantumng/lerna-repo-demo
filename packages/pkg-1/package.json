@@ -1,5 +1,5 @@
 {
-  "name": "pkg-1",
+  "name": "@quantum/demo-pkg-1",
   "version": "1.0.1",
   "description": "demo1",
   "keywords": [
@@ -22,5 +22,6 @@
   },
   "devDependencies": {
     "rollup": "^2.56.3"
-  }
+  },
+  "gitHead": "100676b5addd488ee29de309a307a2575076b40e"
 }

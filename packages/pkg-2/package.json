@@ -1,5 +1,5 @@
 {
-  "name": "pkg-2",
+  "name": "@quantum/demo-pkg-2",
   "version": "1.0.1",
   "description": "demo2",
   "keywords": [
@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "pkg-1": "^1.0.1"
-  }
+    "@quantum/demo-pkg-1": "^1.0.1"
+  },
+  "gitHead": "100676b5addd488ee29de309a307a2575076b40e"
 }
