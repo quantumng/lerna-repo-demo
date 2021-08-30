@@ -1,6 +1,7 @@
 {
   "name": "@quantum/demo-pkg-2",
   "version": "1.0.2",
+  "private": true,
   "description": "demo2",
   "keywords": [
     "demo"
@@ -27,5 +28,5 @@
     "@quantum/demo-pkg-1": "^1.0.2",
     "lodash": "^4.17.21"
   },
-  "gitHead": "100676b5addd488ee29de309a307a2575076b40e"
+  "gitHead": "27e6af5585acdcfa2695dfbd916cd6a8f78890ce"
 }
